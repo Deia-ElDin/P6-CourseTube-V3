@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/P6-CourseTube-V3/static/css/main.c71a6842.css",
+    "main.js": "/P6-CourseTube-V3/static/js/main.bcb788e7.js",
+    "index.html": "/P6-CourseTube-V3/index.html",
+    "main.c71a6842.css.map": "/P6-CourseTube-V3/static/css/main.c71a6842.css.map",
+    "main.bcb788e7.js.map": "/P6-CourseTube-V3/static/js/main.bcb788e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c71a6842.css",
+    "static/js/main.bcb788e7.js"
+  ]
+}
